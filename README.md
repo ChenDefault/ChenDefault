@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChenDefault
+- 👋 Hi, I’m @chenzhigang00
 - 👀 I’m interested in Aritificial Intelligence
 - 🌱 I’m currently learning Federated Learning
 - 💞️ I’m looking to collaborate on pycharm using
